@@ -39,13 +39,7 @@ Here are some ideas to get you started:
   
 </div>
   
-<h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/SaraGhR/SaraGhR/blob/output/github-contribution-grid-snake.svg)
-  
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
 <h2 align="center">🤝 Support</h2>
 
