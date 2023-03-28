@@ -17,9 +17,9 @@ I am a former biologist turned data scientist who is passionate about data scien
 ## :woman_technologist: Stack
 ![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) ![](https://img.shields.io/badge/Theory-Mathematics-orange)
  
-<h2 align="center">🔨 Languages & Tools 🔨</h2>
+<h2 >🔨 Languages & Tools 🔨</h2>
 <br>
-<div align="center">
+<div >
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraGhR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    
