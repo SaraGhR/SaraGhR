@@ -11,13 +11,19 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-`Machine Learning Programmer and Data Analyzer` 💻 
+## :woman_technologist: Hi there!
+I am a former biologist turned data scientist who is passionate about data science and machine learning uplift in the public sector. My repositories feature R and Python programming tutorials, with a focus on using R and Python for data analysis, statistical modelling and machine learning.
+
+## :woman_technologist: Stack
+![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) ![](https://img.shields.io/badge/Theory-Mathematics-orange)
  
+ 
+<br>
 <p>
 <a href="https://visitor-badge.glitch.me/#docs"><img src="https://visitor-badge.glitch.me/badge?page_id=SaraGhR.visitor-badge"></a>&nbsp; 
 </a>&nbsp;
 </div>
-<br>
+
 <h3 align="center">Follow me on:</h3>
 <p align='center'>
 <a href="https://www.linkedin.com/in/sara-ghasemi-rad"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
