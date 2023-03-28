@@ -17,6 +17,13 @@ I am a former biologist turned data scientist who is passionate about data scien
 ## :woman_technologist: Stack
 ![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) ![](https://img.shields.io/badge/Theory-Mathematics-orange)
  
+<h2 align="center">🔨 Languages & Tools 🔨</h2>
+<br>
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraGhR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   
+ 
 <div align="center">
 
 <br>
@@ -31,12 +38,7 @@ I am a former biologist turned data scientist who is passionate about data scien
 <a href="https://www.kaggle.com/saraghasemirad"><img height="30" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 
-<h2 align="center">🔨 Languages & Tools 🔨</h2>
-<br>
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraGhR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+
 </div>
 <br>
 <h2 align="center"> 📈 Statistics </h2>
