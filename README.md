@@ -23,8 +23,8 @@ I am a former biologist turned data scientist who is passionate about data scien
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraGhR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    
-<h2 align="center"> 📈 Statistics </h2>
-<div align="center">
+<h2 > 📈 Statistics </h2>
+<div >
   
 ![sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraGhR&show_icons=true&theme=radical)
   
