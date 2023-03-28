@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">Follow me on:</h3>
 <p align='center'>
 <a href="https://www.linkedin.com/in/sara-ghasemi-rad"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-</a>&nbsp;&nbsp;
+<a href="https://www.kaggle.com/saraghasemirad"><img height="30" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 
 <h2 align="center">🔨 Languages & Tools 🔨</h2>
