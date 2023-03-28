@@ -16,7 +16,7 @@ Hi! I'm a Industrial Engineer turned data scientist who is passionate about data
 And I'm open to new opportunities 💻
 
 ## :woman_technologist: Stack
-![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) ![](https://img.shields.io/badge/Theory-Mathematics-orange)
+![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Language-SQL-blue)  ![](https://img.shields.io/badge/Theory-Statistics-orange) ![](https://img.shields.io/badge/Theory-Mathematics-orange)
  
 <h2 >🔨 Languages & Tools 🔨</h2>
 <br>
