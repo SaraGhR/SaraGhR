@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 -->
-<div align="center">
+
 
 ## :woman_technologist: Hi there!
 I am a former biologist turned data scientist who is passionate about data science and machine learning uplift in the public sector. My repositories feature R and Python programming tutorials, with a focus on using R and Python for data analysis, statistical modelling and machine learning.
@@ -17,7 +17,8 @@ I am a former biologist turned data scientist who is passionate about data scien
 ## :woman_technologist: Stack
 ![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) ![](https://img.shields.io/badge/Theory-Mathematics-orange)
  
- 
+<div align="center">
+
 <br>
 <p>
 <a href="https://visitor-badge.glitch.me/#docs"><img src="https://visitor-badge.glitch.me/badge?page_id=SaraGhR.visitor-badge"></a>&nbsp; 
