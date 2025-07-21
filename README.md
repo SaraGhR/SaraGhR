@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 
 ## :woman_technologist: Hi there!
-Hi! I'm a Industrial Engineer turned data scientist who is passionate about data science and machine learning. I'm using R and Python for data analysis, statistical modelling and machine learning.
+Hi! I'm an Industrial Engineer turned data scientist who is passionate about data science and machine learning. I'm using R and Python for data analysis, statistical modelling, and machine learning.
 And I'm open to new opportunities 💻
 
 ## :woman_technologist: Stack
@@ -49,12 +49,3 @@ And I'm open to new opportunities 💻
 </div>
 <br>
 
-  
-
-
-<h2 align="center">🤝 Support</h2>
-
-<div align="center">
-<p> 🤝 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
-<p>💙 If you like what I do, give me some ⭐'s and share with your friends!</p>
-</div
