@@ -25,13 +25,7 @@ And I'm open to new opportunities 💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraGhR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    
  
-<div align="center">
 
-<br>
-<p>
-<a href="https://visitor-badge.glitch.me/#docs"><img src="https://visitor-badge.glitch.me/badge?page_id=SaraGhR.visitor-badge"></a>&nbsp; 
-</a>&nbsp;
-</div>
 
 <h3 align="center">Follow me on:</h3>
 <p align='center'>
