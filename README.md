@@ -24,12 +24,6 @@ And I'm open to new opportunities 💻
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraGhR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    
-<h2 > 📈 Statistics </h2>
-<div >
-  
-![sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraGhR&show_icons=true&theme=radical)
-  
- </div>
  
 <div align="center">
 
